@@ -3,15 +3,7 @@ header a {
     color: white;
 }
 
-p a{
-    color: white;
-}
-
-p {
-    color: white;
-}
-
-h1 {
+p, a, h1{
     color: white;
 }
 
@@ -22,3 +14,16 @@ h1 {
 footer {
     display: block;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 5px;
+    
+  }
+  .merge { margin-top: 0;
+      margin-bottom: 0;
+      color: black
+
+  }
