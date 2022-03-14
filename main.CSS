@@ -1,0 +1,24 @@
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+p a{
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+.widht {
+    width: 50px;
+}
+
+footer {
+    display: block;
+}
